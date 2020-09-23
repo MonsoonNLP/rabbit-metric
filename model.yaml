@@ -1,0 +1,7 @@
+- name: Test1
+- author: Nick D
+- organization: GeoReactor
+- model: bert-base-uncased
+- submitted: 2020-09-23
+- description: |
+    untrained baseline model to test GitHub Actions workflow
