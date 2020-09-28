@@ -31,6 +31,10 @@ Longer: https://medium.com/swlh/patching-pre-trained-language-models-28ed6ea8b0b
 - Goal: runs on GitHub Actions after PR
 - Over time, re-run on new batches of stories and language
 
+### Related projects
+
+https://towardsdatascience.com/continuous-quality-evaluation-for-ml-projects-using-github-actions-78f2f078e38f | https://github.com/vladimir-chernykh/ml-quality-cicd
+
 ### Thoughts on production-izing
 
 Should use OpenML, https://github.com/mlperf/mlbox, https://github.com/facebookresearch/dagger, or https://sotabench.com for interoperability and connection to mainstream tests.
